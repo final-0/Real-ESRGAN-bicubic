@@ -13,6 +13,9 @@ If you want to change the size, you can change "crop_pad_size = 1024" in line 58
 The other default settings are as follows.　<br>
 
 ### default settings <br>
+- learning rate : 0.0001
+- epochs : 10
+- image size : 1024x1024
 
 ### training <br>
 - esrgan_bicubic.py <br>
