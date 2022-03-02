@@ -27,29 +27,29 @@ The other default settings are as follows.　<br>
 ## Results <br>
 <table>
    <tr>
-    <td><img src="images/low.png" width=384 height=384></td>
-    <td><img src="images/low1.png" width=384 height=384></td>
+    <td><img src="image/low.png" width=384 height=384></td>
+    <td><img src="image/low1.png" width=384 height=384></td>
    </tr>
    <tr>
     <td align="center">input</td>
    </tr>
    <tr>
-    <td><img src="images/high.png" width=384 height=384></td>
-    <td><img src="images/high1.png" width=384 height=384></td>
+    <td><img src="image/high.png" width=384 height=384></td>
+    <td><img src="image/high1.png" width=384 height=384></td>
    </tr>
    <tr>
     <td align="center">ground truth</td>
    </tr>
   <tr>
-    <td><img src="images/generate.png" width=384 height=384></td>
-    <td><img src="images/generate1.png" width=384 height=384></td>
+    <td><img src="image/generate.png" width=384 height=384></td>
+    <td><img src="image/generate1.png" width=384 height=384></td>
    </tr>
    <tr>
     <td align="center">output esrgan_bicubic.py</td>
    </tr>
    <tr>
-    <td><img src="images/generate_cross.png" width=384 height=384></td>
-    <td><img src="images/generate_cross1.png" width=384 height=384></td>
+    <td><img src="image/generate_cross.png" width=384 height=384></td>
+    <td><img src="image/generate_cross1.png" width=384 height=384></td>
    </tr>
    <tr>
     <td align="center">output esrgan_cross.py</td>
