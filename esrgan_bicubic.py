@@ -21,7 +21,7 @@ learning_rate = 0.0001
 sample = 50
 num_epoch = 10
 data_path = "../../data/train"
-
+image_size = 1024
 
 
 os.makedirs("train_image", exist_ok=True)
