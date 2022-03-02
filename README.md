@@ -29,3 +29,9 @@ dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?sele
 - recommendation <br>
 &emsp; image-size : 1024x1024 <br>
 &emsp; number of images : 1000 <br>
+
+## Reference <br>
+ github
+ &emsp; https://github.com/xinntao/Real-ESRGAN
+ paper
+ &emsp; https://arxiv.org/abs/2107.10833
