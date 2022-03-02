@@ -23,6 +23,7 @@ num_epoch = 10
 data_path = "../../data/train"
 
 
+
 os.makedirs("train_image", exist_ok=True)
 os.makedirs("saved_models2", exist_ok=True)
 
