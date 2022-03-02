@@ -24,7 +24,7 @@ data_path = "../../data/train"
 
 
 os.makedirs("train_image", exist_ok=True)
-os.makedirs("saved_models4", exist_ok=True)
+os.makedirs("saved_models2", exist_ok=True)
 
 cuda = torch.cuda.is_available()
 Device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -178,5 +178,5 @@ for epoch in range(0,num_epoch):
 
         
 #===save_model===#
-torch.save(net_G.state_dict(), "saved_models4/generator.pth")
-torch.save(net_D.state_dict(), "saved_models4/discriminator.pth")
+torch.save(net_G.state_dict(), "saved_models2/generator.pth")
+torch.save(net_D.state_dict(), "saved_models2/discriminator.pth")
