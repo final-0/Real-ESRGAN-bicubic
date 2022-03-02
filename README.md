@@ -23,6 +23,38 @@ The other default settings are as follows.　<br>
 
 ### test <by>
 - esrgan_test.py <br>
+
+## Results <br>
+<table>
+   <tr>
+    <td><img src="images/low.png" width=384 height=384></td>
+    <td><img src="images/low1.png" width=384 height=384></td>
+   </tr>
+   <tr>
+    <td align="center">input</td>
+   </tr>
+   <tr>
+    <td><img src="images/high.png" width=384 height=384></td>
+    <td><img src="images/high1.png" width=384 height=384></td>
+   </tr>
+   <tr>
+    <td align="center">ground truth</td>
+   </tr>
+  <tr>
+    <td><img src="images/generate.png" width=384 height=384></td>
+    <td><img src="images/generate1.png" width=384 height=384></td>
+   </tr>
+   <tr>
+    <td align="center">output esrgan_bicubic.py</td>
+   </tr>
+   <tr>
+    <td><img src="images/generate_cross.png" width=384 height=384></td>
+    <td><img src="images/generate_cross1.png" width=384 height=384></td>
+   </tr>
+   <tr>
+    <td align="center">output esrgan_cross.py</td>
+   </tr>
+  </table>
   
 ## Dataset Preparation <br>
 dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?select=train <br>
