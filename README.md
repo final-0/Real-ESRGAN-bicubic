@@ -11,4 +11,10 @@ The input image size is defined, and the default value is 1024.
 If you want to change the size, you can change "crop_pad_size = 1024" in line 58 of "esrgan_data.py".
 The other default settings are as follows.　<br>
 
-# default settings <br>
+### default settings <br>
+
+
+### esrgan_bicubic.py <br>
+
+### esrgan_cross.py <by>
+  
