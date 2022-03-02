@@ -25,7 +25,7 @@ The other default settings are as follows.　<br>
 - esrgan_test.py <br>
   
 ## Dataset Preparation <br>
-dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?select=train
+dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?select=train <br>
 &nbsp; recommendation <br>
 &emsp; image-size : 1024x1024 <br>
 &emsp; number of images : 1000 <br>
