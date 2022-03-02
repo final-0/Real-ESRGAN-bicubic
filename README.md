@@ -31,7 +31,7 @@ dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?sele
 &emsp; number of images : 1000 <br>
 
 ## Reference <br>
- github
- &emsp; https://github.com/xinntao/Real-ESRGAN
- paper
- &emsp; https://arxiv.org/abs/2107.10833
+ github <br>
+ &emsp; https://github.com/xinntao/Real-ESRGAN <br>
+ paper <br>
+ &emsp; https://arxiv.org/abs/2107.10833 <br>
