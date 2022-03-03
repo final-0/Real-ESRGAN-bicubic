@@ -1,6 +1,6 @@
 # Real-ESRGAN-bicubic
 
-## Absutract <br>
+## Abstract <br>
 &emsp; You can use this [Real-ESRGAN-bicubic] to train and test yourself.
 In this repository, for simplicity, we will only perform super-resolution on images that have been compressed using the bicubic method.
 However, the structure of the generator and discriminator is exactly the same as that of the official Real-ESRGAN.
