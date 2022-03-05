@@ -1,8 +1,6 @@
 """
-Modified from https://github.com/mlomnitz/DiffJPEG
-
-For images not divisible by 8
-https://dsp.stackexchange.com/questions/35339/jpeg-dct-padding/35343#35343
+Modified from https://github.com/mlomnitz/DiffJPEG]
+         from https://github.com/xinntao/Real-ESRGAN
 """
 import itertools
 import numpy as np
